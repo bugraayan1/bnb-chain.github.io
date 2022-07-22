@@ -33,7 +33,7 @@ The following are general steps for deploying a storage smart contract
 When deploying a smart contract to a blockchain or when making a transaction to a deployed smart contract, a gas fee must be paid, and for that, we need to use a crypto wallet which can be Binance Wallet or MetaMask. If you want to use Binance Wallet, click [here](https://chrome.google.com/webstore/detail/binance-wallet/fhbohimaelbohpjbbldcngcnapndodjp) to get Binance Wallet and if you want to continue with MetaMask Wallet, click [here](https://metamask.io/)  to install MetaMask.
 
 ### Adding BNB Smart Chain Test Network to MetaMask Wallet
-Visit [ChainIDE]((https://chainide.com/)), create a project, and click on the "unconnected button" in the upper right corner, select the "Injected Web3 Provider" button, and then click the "MetaMask" to connect to the MetaMask wallet ("BNB Chain Mainnet" is the main network, and "BNB Chain Testnet" is the test network, click on the "BNB Chain Testnet" and it will be added to your MetaMask wallet.
+Visit [ChainIDE](https://chainide.com/), create a project, and click on the "unconnected button" in the upper right corner, select the "Injected Web3 Provider" button, and then click the "MetaMask" to connect to the MetaMask wallet ("BNB Chain Mainnet" is the main network, and "BNB Chain Testnet" is the test network, click on the "BNB Chain Testnet" and it will be added to your MetaMask wallet.
 ![](https://chainide-doc.s3.amazonaws.com/Using+ChainIDE+BNB+Smart+Chain/Untitled+design+(19).png)
 
 ### Enabling the BNB Smart Chain Test Network to Binance Wallet
