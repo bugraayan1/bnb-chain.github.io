@@ -1,9 +1,9 @@
-# BNB Chain Documentation 
+# BNB Chain Dokümantasyonu
 
 ## Overview
-This is the updated documentation for BNB Chain for a better user experience and navigation. This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. Navigation bar are updated providing a better division of topics and easier navigation for the users. Multiple files have been re-formatted and new files are also included.
+Bu doküman BNB Chain kullanımını anlatmak ve kullanıcı deneyimini geliştirmek için hazırlanmıştır. Bu web sitesi [Docusaurus 2](https://docusaurus.io/), isimli araç kullanılarak geliştirilmiştir. Güncellemeyle beraber bölümlendirmeler, yeni eklenen bölümler içeriğe katkı sağlamıştır.
 
-### Prerequisites
+### Gereklilikler
   - **Node** _version >= 14 or above_
     - _node -v_
       - v16.13.0
@@ -15,7 +15,7 @@ This is the updated documentation for BNB Chain for a better user experience and
     - _yarn --version_
       - 1.22.17
     
-### Installation
+### Yükleme
 
 The easiest way to install Docusaurus is to use the command line tool that helps you scaffold a skeleton Docusaurus website. You can run this command anywhere in a new empty repository or within an existing repository, it will create a new directory containing the scaffolded files.
 
